@@ -3,4 +3,3 @@ set nocompatible
 syntax on
 set hlsearch
 filetype off
-color desert
